@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/N1.png</file>
+        <file>Image/S2.png</file>
+        <file>Image/S1.png</file>
+        <file>Image/A3.png</file>
+        <file>Image/A1.png</file>
+        <file>Image/giphy.gif</file>
+        <file>Image/etoile.jpg</file>
+        <file>Image/nube.png</file>
+        <file>Image/N2.png</file>
+        <file>Image/000215225_prev.mp3</file>
+        <file>Image/001094906_prev.mp3</file>
+        <file>Image/11 Name Entry.mp3</file>
+        <file>Image/galaga.PNG</file>
+    </qresource>
+</RCC>
